@@ -29,7 +29,7 @@ function Portfolio() {
         {
             id:4,
             src:tictac,
-            href:"#",
+            href:"https://github.com/mayankKumargit/TicTacToe",
             name:"Tic Tac Toe game"
         },
         {
