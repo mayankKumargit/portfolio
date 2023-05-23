@@ -31,7 +31,7 @@ function SocialLinks() {
             child:(
                 <>Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill></>
             ),
-            href:"./resume.txt",
+            href:"./Resume.pdf",
             style:'rounded-br-md',
             download:true
         }

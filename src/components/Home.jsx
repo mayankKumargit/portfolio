@@ -8,8 +8,8 @@ function Home() {
             <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
                 <div className='flex flex-col justify-center h-full'>
                     <h2 className='text-4xl sm:text-7xl font-bold text-white'>I am a full stack web developer</h2>
-                    <p className='text-gray-500 py-4 max-w-md text-1.5xl'>I am a aspiring web developer I am a aspiring web developer 
-                            I am a aspiring web developer I am a aspiring web developer
+                    <p className='text-gray-500 py-4 max-w-md text-1.5xl'>I believe in the power of open communication,
+                     ensuring that all stakeholders are involved throughout the development process, from concept to deployment.
                     </p>
                     <div>
                         <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-5 py-2 my-2 flex
