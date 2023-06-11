@@ -15,7 +15,7 @@ function App() {
             <Portfolio></Portfolio>
             <Experience></Experience>
             <Contact></Contact>
-            <SocialLinks></SocialLinks>
+            <SocialLinks hidden="hidden"></SocialLinks>
             
         </div>
     );

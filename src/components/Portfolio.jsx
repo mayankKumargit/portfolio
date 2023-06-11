@@ -3,7 +3,7 @@ import calculator from "../assets/projects/calculator.PNG"
 import extension from "../assets/projects/extension.jpg"
 import railway from "../assets/projects/railway.jpg"
 import tictac from "../assets/projects/tictac.jpg"
-import todolist from "../assets/projects/todolist.jpg"
+import youtube from "../assets/projects/youtube.PNG"
 import weather from "../assets/projects/weather.jpg"
 
 function Portfolio() {
@@ -34,9 +34,9 @@ function Portfolio() {
         },
         {
             id:5,
-            src:todolist,
-            href:"https://github.com/mayankKumargit/Todo-list",
-            name:"Todo List"
+            src:youtube,
+            href:"https://github.com/mayankKumargit/youtubeClone",
+            name:"youtube"
         },
         {
             id:6,
