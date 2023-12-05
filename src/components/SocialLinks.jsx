@@ -9,7 +9,7 @@ function SocialLinks({hidden}) {
             child:(
                 <>Linkedin <FaLinkedin size={30}></FaLinkedin></>
             ),
-            href:"https://linkedin.com",
+            href:"https://www.linkedin.com/in/mayank-kumar-2a257b227/",
             style:'rounded-tr-md'
         },
         {
@@ -31,7 +31,7 @@ function SocialLinks({hidden}) {
             child:(
                 <>Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill></>
             ),
-            href:"./Resume.pdf",
+            href:"./Mayank_Kumar_grad_2024.pdf",
             style:'rounded-br-md',
             download:true
         }
